@@ -1,0 +1,5 @@
+{
+  "name": "Copy of  Gerador de imagens de cenas biblicas",
+  "description": "Um aplicativo que gera imagens de cenas bíblicas no estilo Pixar a partir de um capítulo da Bíblia inserido pelo usuário.",
+  "requestFramePermissions": []
+}
